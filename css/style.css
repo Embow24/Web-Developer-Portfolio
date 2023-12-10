@@ -9,7 +9,7 @@ body {
   line-height: 1.5;
   background-color: lightgray;
 }
-
+/* Styling for the navigation bar */
 header {
   display: flex;
   justify-content: space-between;
@@ -28,7 +28,7 @@ li {
   background: none;
   font-size: 25px;
 }
-
+/* Styling for the profile photo */
 .hero-banner {
   display: flex;
   align-items: center;
@@ -50,6 +50,7 @@ h2 {
   margin-right: 30%;
 }
 
+/* Styling for all h3 text */
 h3 {
   float: left;
   margin-left: 10px;
@@ -57,6 +58,7 @@ h3 {
   background-color: lightpink;
 }
 
+/* Styling for the about me section */
 p {
   text-align: left;
   margin-left: 160px;
@@ -64,6 +66,7 @@ p {
   font-size: 20px;
 }
 
+/* Grid layout styling for work examples */
 #Grid {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -77,6 +80,11 @@ p {
 #refactoring {
 grid-area: refactoring;
   background-image: url("../images/Horiseon-image.png");
+}
+
+#code {
+  background-color: lightpink;
+  margin-right: 800px;
 }
 
 #StudyGuide {
@@ -93,16 +101,12 @@ grid-area: refactoring;
   border: 5px solid lightpink;
 }
 
-#code {
-  background-color: lightpink;
-  margin-right: 800px;
-}
-
 h4 {
   background-color: lightpink;
   margin-right: 400px;
 }
 
+/* Styling for contact me section */
 #contact {
   display: flex;
   justify-content: space-between;
@@ -113,6 +117,7 @@ h4 {
   margin-right: 150px;
 }
 
+/* Media query styling */
 @media only screen and (max-width: 1000px) {
 
 }
