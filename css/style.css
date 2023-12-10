@@ -1,3 +1,8 @@
+:root {
+  --background-color: lightpink;
+  --border: solid 5px lightpink;
+}
+
 * {
   box-sizing: border-box;
 }
@@ -18,7 +23,7 @@ header {
 }
 
 h1 {
-  background-color: lightpink;
+  background: var(--background-color);
   margin-left: 10px;
 }
 
@@ -46,7 +51,7 @@ h2 {
 #me {
   display: inline;
   width: 13%;
-  border: solid lightpink 5px;
+  border: var(--border);
   margin-right: 30%;
 }
 
@@ -55,7 +60,7 @@ h3 {
   float: left;
   margin-left: 10px;
   font-size: 30px;
-  background-color: lightpink;
+  background: var(--background-color);
 }
 
 /* Styling for the about me section */
@@ -83,7 +88,7 @@ grid-area: refactoring;
 }
 
 #code {
-  background-color: lightpink;
+  background: var(--background-color);
   margin-right: 800px;
 }
 
@@ -98,11 +103,11 @@ grid-area: refactoring;
 }
 
 .GridArea {
-  border: 5px solid lightpink;
+  border: var(--border);
 }
 
 h4 {
-  background-color: lightpink;
+  background: var(--background-color);
   margin-right: 400px;
 }
 
