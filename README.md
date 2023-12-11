@@ -13,11 +13,11 @@ This portfolio implements responsive web design and can be viewed on mobile, ipa
 
 Below are screenshots of the portfolio on a mobile device, an ipad and a desktop. 
 
-![Desktop](images/Desktop.png)
+![Desktop](Images/Desktop.png)
 
-![Ipad](images/Ipad.png)
+![Ipad](Images/Ipad.png)
 
-![Iphone](images/Iphone.png)
+![Iphone](Images/Iphone.png)
 
 To access this portfolio click the following link: https://embow24.github.io/Web-Developer-Portfolio/ 
 

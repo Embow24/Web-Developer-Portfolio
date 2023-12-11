@@ -88,7 +88,7 @@ p {
 
 #refactoring {
 grid-area: refactoring;
-  background-image: url("../images/Horiseon-image.png");
+  background-image: url("../Images/Horiseon-image.png");
 }
 
 #code {
@@ -98,12 +98,12 @@ grid-area: refactoring;
 
 #StudyGuide {
  grid-area: StudyGuide;
-  background-image: url("../images/Prework-image.png");
+  background-image: url("../Images/Prework-image.png");
 }
 
 #car {
   grid-area: car;
-  background-image: url("../images/portfolio.jpg");
+  background-image: url("../Images/portfolio.jpg");
 }
 
 .GridArea {
