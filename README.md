@@ -15,7 +15,7 @@ Below is a screenshot of the portfolio on a desktop device.
 
 ![Desktop](Images/Desktop.png)
 
-Below is a screenshot of the portfolio on an device. 
+Below is a screenshot of the portfolio on an ipad device. 
 
 ![Ipad](Images/Ipad.png)
 
