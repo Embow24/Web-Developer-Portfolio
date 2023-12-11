@@ -11,11 +11,15 @@ This portfolio has a navigation bar at the top of the page with links to the cor
 
 This portfolio implements responsive web design and can be viewed on mobile, ipad and desktop devices.
 
-Below are screenshots of the portfolio on a mobile device, an ipad and a desktop. 
+Below is a screenshot of the portfolio on a desktop device. 
 
 ![Desktop](Images/Desktop.png)
 
+Below is a screenshot of the portfolio on an device. 
+
 ![Ipad](Images/Ipad.png)
+
+Below is a screenshot of the portfolio on a mobile device. 
 
 ![Iphone](Images/Iphone.png)
 
